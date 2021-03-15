@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-facebook-pixel-module",
+  "name": "@wahyuade/nuxt-facebook-pixel-module",
   "version": "1.5.0",
   "description": "Nuxt plugin for Facebook pixel",
   "license": "MIT",
